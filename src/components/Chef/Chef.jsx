@@ -5,7 +5,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 import SubHeading from "../SubHeading/SubHeading";
 import images from "../../assets";
-import "./Chef.css";
+import "./chef.css";
 
 gsap.registerPlugin(ScrollTrigger);
 
