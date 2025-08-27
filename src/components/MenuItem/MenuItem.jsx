@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './MenuItem.css';
+import './menuitem.css';
 
 const MenuItem = ({ title, price, tags }) => (
   <div className="app__menuitem">
