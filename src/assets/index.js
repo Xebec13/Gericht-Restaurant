@@ -20,6 +20,7 @@ import award05 from './award05.png';
 import sign from './sign.png';
 import quote from './quote.png';
 import gericht from './gericht.png';
+import mealVideo from './meal.mp4'
 
 const images = {
   bg,
@@ -44,6 +45,7 @@ const images = {
   sign,
   quote,
   gericht,
+  mealVideo
 };
 
 export default images;

@@ -1,4 +1,15 @@
-import { Navbar, Header, AboutUs, SpecialMenu } from "./components";
+import {
+  Navbar,
+  Header,
+  AboutUs,
+  SpecialMenu,
+  Chef,
+  Intro,
+  Laurels,
+  Gallery,
+  FindUs,
+  Footer,
+} from "./components";
 import "./App.css";
 function App() {
   return (
@@ -7,6 +18,12 @@ function App() {
       <Header />
       <AboutUs />
       <SpecialMenu />
+      <Chef />
+      <Intro />
+      <Laurels />
+      <Gallery />
+      <FindUs />
+      <Footer/>
     </>
   );
 }
